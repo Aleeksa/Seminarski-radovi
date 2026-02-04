@@ -9,12 +9,12 @@ Ovaj repozitorijum sadrži istraživačke i seminarske radove nastale tokom stud
 ### 🧠 [Primenjena Veštačka Inteligencija] TinyML: AI na mikrokontrolerima
 * **Tema:** Implementacija i optimizacija modela mašinskog učenja na uređajima sa ograničenim resursima (Edge AI).
 * **Ključne stavke:** Kvantizacija modela, TensorFlow Lite, hardverska ograničenja MCU-a.
-* **Format:** [DOCX](./Алекса Антић - Семинарски рад из примењене вештачке интелигенције.docx)
+* **Format:** [DOCX](Алекса Антић - Семинарски рад из примењене вештачке интелигенције.docx)
 
 ### ⚡ [Sistemi u Realnom Vremenu] Pametne kinetičke ploče
 * **Tema:** Generisanje električne energije iz saobraćaja korišćenjem pametnih kinetičkih ploča.
 * **Ključne stavke:** Energetska efikasnost, RTOS koncepti, održivi izvori energije.
-* **Format:** [DOCX](./Семинарски из система у реалном времену - готово.docx)
+* **Format:** [DOCX](Семинарски из система у реалном времену - готово.docx)
 * 
 ---
 
