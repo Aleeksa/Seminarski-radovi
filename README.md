@@ -15,7 +15,7 @@ Ovaj repozitorijum sadrži istraživačke i seminarske radove nastale tokom stud
 * **Tema:** Generisanje električne energije iz saobraćaja korišćenjem pametnih kinetičkih ploča.
 * **Ključne stavke:** Energetska efikasnost, RTOS koncepti, održivi izvori energije.
 * **Format:** [DOCX](Семинарски из система у реалном времену - готово.docx)
-* 
+
 ---
 
 ## 🛠️ Istraživački Fokus
